@@ -2,4 +2,4 @@
 using System.Threading;
 
 //School tasks
-Subject5_Task1.QuestTour.QuestSelect();
+var soft = new ConsoleApp_test.Subject8_Task2();
